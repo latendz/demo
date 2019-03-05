@@ -1,14 +1,73 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "data": [
+        {
+            "category": "New Products",
+            "products": [
+                {
+                    "id": 0,
+                    "name": "Converse Glits",
+                    "price": "850",
+                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Classic Runs",
+                    "price": "700",
+                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Club C",
+                    "price": "659",
+                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Campus Sneaker Pale Grey",
+                    "price": "899",
+                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                }
+            ]
+        },
+        {
+            "category": "Product Category",
+            "products": [
+                {
+                    "id": 4,
+                    "name": "Gucci",
+                    "price": "4799",
+                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Valentino Garavani",
+                    "price": "799",
+                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                }
+            ]
+        },
+        {
+            "category": "Product Category",
+            "products": [
+                {
+                    "id": 6,
+                    "name": "Nike viale",
+                    "price": "479",
+                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "Balenciaga",
+                    "price": "5790",
+                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Golden Goose Deluxe",
+                    "price": "970",
+                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                }
+            ]
+        }
+    ]
 }
