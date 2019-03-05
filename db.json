@@ -7,25 +7,25 @@
                     "id": 0,
                     "name": "Converse Glits",
                     "price": "850",
-                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                    "imageURl": "https://ibb.co/T8wSg1D"
                 },
                 {
                     "id": 1,
                     "name": "Classic Runs",
                     "price": "700",
-                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                    "imageURl": "https://ibb.co/MRmVMYW"
                 },
                 {
                     "id": 2,
                     "name": "Club C",
                     "price": "659",
-                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                    "imageURl": "https://ibb.co/m0LhbHp"
                 },
                 {
                     "id": 3,
                     "name": "Campus Sneaker Pale Grey",
                     "price": "899",
-                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                    "imageURl": "https://ibb.co/vhTqMKs"
                 }
             ]
         },
@@ -36,13 +36,13 @@
                     "id": 4,
                     "name": "Gucci",
                     "price": "4799",
-                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                    "imageURl": "https://ibb.co/3fY1mbn"
                 },
                 {
                     "id": 5,
                     "name": "Valentino Garavani",
                     "price": "799",
-                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                    "imageURl": "https://ibb.co/FXj5TJN"
                 }
             ]
         },
@@ -53,19 +53,19 @@
                     "id": 6,
                     "name": "Nike viale",
                     "price": "479",
-                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                    "imageURl": "https://ibb.co/3yhSCRL"
                 },
                 {
                     "id": 6,
                     "name": "Balenciaga",
                     "price": "5790",
-                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                    "imageURl": "https://ibb.co/8P26fG9"
                 },
                 {
                     "id": 7,
                     "name": "Golden Goose Deluxe",
                     "price": "970",
-                    "imageURl": "../../assets//imgs/sneakers.jpg"
+                    "imageURl": "https://ibb.co/P5q6yMh"
                 }
             ]
         }
