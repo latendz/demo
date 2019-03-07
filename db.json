@@ -9,25 +9,31 @@
                     "price": "850",
                     "imageURl": "https://i.ibb.co/cFyHrwK/sneakers.jpg",
                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-                   
+                    "picture": [
+                                 { "image1": "https://i.ibb.co/cFyHrwK/sneakers.jpg", 
+                                   "image2": "https://i.ibb.co/cFyHrwK/sneakers.jpg", 
+                                   "image3": "https://i.ibb.co/cFyHrwK/sneakers.jpg"} ]
                 },
                 {
                     "id": 1,
                     "name": "Classic Runs",
                     "price": "700",
-                    "imageURl": "https://i.ibb.co/hKSWDPh/sneakers2.jpg"
+                    "imageURl": "https://i.ibb.co/hKSWDPh/sneakers2.jpg",
+                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                 },
                 {
                     "id": 2,
                     "name": "Club C",
                     "price": "659",
-                    "imageURl": "https://i.ibb.co/W0bBGcC/sneakers3.jpg"
+                    "imageURl": "https://i.ibb.co/W0bBGcC/sneakers3.jpg",
+                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                 },
                 {
                     "id": 3,
                     "name": "Campus Sneaker Pale Grey",
                     "price": "899",
-                    "imageURl": "https://i.ibb.co/YX1QVqD/sneakers4.jpg"
+                    "imageURl": "https://i.ibb.co/YX1QVqD/sneakers4.jpg",
+                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                 }
             ]
         },
@@ -38,13 +44,15 @@
                     "id": 4,
                     "name": "Gucci",
                     "price": "4799",
-                    "imageURl": "https://i.ibb.co/VHpVYGs/sneaker5.jpg"
+                    "imageURl": "https://i.ibb.co/VHpVYGs/sneaker5.jpg",
+                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                 },
                 {
                     "id": 5,
                     "name": "Valentino Garavani",
                     "price": "799",
-                    "imageURl": "https://i.ibb.co/vhK3nmg/sneaker6.jpg"
+                    "imageURl": "https://i.ibb.co/vhK3nmg/sneaker6.jpg",
+                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                 }
             ]
         },
@@ -55,19 +63,22 @@
                     "id": 6,
                     "name": "Nike viale",
                     "price": "479",
-                    "imageURl": "https://i.ibb.co/27KckZf/sneaker7.jpg"
+                    "imageURl": "https://i.ibb.co/27KckZf/sneaker7.jpg",
+                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                 },
                 {
                     "id": 7,
                     "name": "Balenciaga",
                     "price": "5790",
-                    "imageURl": "https://i.ibb.co/Jr25G8H/sneaker8.jpg"
+                    "imageURl": "https://i.ibb.co/Jr25G8H/sneaker8.jpg",
+                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                 },
                 {
                     "id": 8,
                     "name": "Golden Goose Deluxe",
                     "price": "970",
-                    "imageURl": "https://i.ibb.co/Q6yKVkN/sneaker9.jpg"
+                    "imageURl": "https://i.ibb.co/Q6yKVkN/sneaker9.jpg",
+                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                 }
             ]
         }
