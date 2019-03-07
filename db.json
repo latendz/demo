@@ -7,7 +7,17 @@
                     "id": 0,
                     "name": "Converse Glits",
                     "price": "850",
-                    "imageURl": "https://i.ibb.co/cFyHrwK/sneakers.jpg"
+                    "imageURl": "https://i.ibb.co/cFyHrwK/sneakers.jpg",
+                    "description": [
+            {
+              "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "picture": [
+                {
+                  "image1": "https://i.ibb.co/cFyHrwK/sneakers.jpg", "image2": "https://i.ibb.co/cFyHrwK/sneakers.jpg", "image3": "https://i.ibb.co/cFyHrwK/sneakers.jpg",
+                }
+              ]
+            }
+          ]
                 },
                 {
                     "id": 1,
