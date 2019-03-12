@@ -19,26 +19,26 @@
                 },
                 {
                     "id": 1,
-                    "name": "Classic Runs",
+                    "name": "Old Skool Vans",
                     "price": "700",
-                    "imageURl": "https://i.ibb.co/hKSWDPh/sneakers2.jpg",
+                    "imageURl": "https://i.ibb.co/9HSdhbf/4-1.jpg,
                      "description":"These sneakers boast full wedge soles for a modern take on a platform, only this time not as part of a pair of heels. Their monochrome colourway makes them an easy sell with any other white pieces, but alternatively a preppy look comprising a denim miniskirt and striped tee will do just the trick with this pair.",
                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
                      "pictures": [
-                                 "https://i.ibb.co/cFyHrwK/sneakers.jpg", 
-                                 "https://i.ibb.co/cFyHrwK/sneakers.jpg", 
-                                  "https://i.ibb.co/cFyHrwK/sneakers.jpg" 
+                                 "https://i.ibb.co/Zg9z4pS/4-2.jpg", 
+                                 "https://i.ibb.co/SRZ5xyr/4-3.jpg", 
+                                  "https://i.ibb.co/fQQz54V/4-4.jpg" 
                      ]
                 },
                 {
                     "id": 2,
                     "name": "Club C",
                     "price": "659",
-                    "imageURl": "https://i.ibb.co/1QkPkCm/2-1.jpg",
+                    "imageURl": "https://i.ibb.co/YX1QVqD/sneakers4.jpg",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                      "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
                      "pictures": [
-                                 "https://i.ibb.co/1QkPkCm/2-1.jpg", 
+                                 "https://i.ibb.co/YX1QVqD/sneakers4.jpg", 
                                  "https://i.ibb.co/LtBJ9Jw/2-2.jpg", 
                                   "https://i.ibb.co/ryrX2z7/2-3.jpg" 
                      ]
