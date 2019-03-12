@@ -21,10 +21,11 @@
                     "imageURl": "https://i.ibb.co/hKSWDPh/sneakers2.jpg",
                      "description":"These sneakers boast full wedge soles for a modern take on a platform, only this time not as part of a pair of heels. Their monochrome colourway makes them an easy sell with any other white pieces, but alternatively a preppy look comprising a denim miniskirt and striped tee will do just the trick with this pair.",
                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
-                     "picture": [
-                                 { "image1": "https://i.ibb.co/cFyHrwK/sneakers.jpg", 
-                                   "image2": "https://i.ibb.co/cFyHrwK/sneakers.jpg", 
-                                   "image3": "https://i.ibb.co/cFyHrwK/sneakers.jpg"} ]
+                     "pictures": [
+                                 "https://i.ibb.co/cFyHrwK/sneakers.jpg", 
+                                 "https://i.ibb.co/cFyHrwK/sneakers.jpg", 
+                                  "https://i.ibb.co/cFyHrwK/sneakers.jpg" 
+                     ]
                 },
                 {
                     "id": 2,
