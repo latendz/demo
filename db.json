@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "category": "New Products",
-            "products": [
+            "category1": "New Products",
+            "products1": [
                 {
                     "id": 0,
                     "name": "Converse Glits",
