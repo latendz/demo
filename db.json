@@ -95,40 +95,6 @@
                         3, 8, 9, 10 ]   
                 
                 },
-                   {
-                    "id": 5,
-                    "name": "Nike",
-                    "price": "479",
-                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
-                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
-                     "pictures": [
-                                    "https://i.ibb.co/K9cSxDn/image.png",
-                                    "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png" 
-                     ],
-                     "sizes":[
-                        3, 4, 5, 8, 9, 10 ]   
-                
-                },
-                {
-                    "id": 6,
-                    "name": "Star",
-                    "price": "1799",
-                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
-                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
-                     "pictures": [
-                                    "https://i.ibb.co/K9cSxDn/image.png",
-                                    "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png" 
-                     ],
-                     "sizes":[
-                        3, 8, 9, 10 ]   
-                
-                },
                 {
                     "id": 7,
                     "name": "Valentino",
@@ -166,20 +132,6 @@
                     "id": 9,
                     "name": "Balenciaga",
                     "price": "5790",
-                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
-                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
-                     "pictures": [
-                                    "https://i.ibb.co/K9cSxDn/image.png",
-                                    "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png" 
-                     ]
-                },
-                 {
-                    "id": 10,
-                    "name": "Tommy",
-                    "price": "190",
                     "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                      "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
