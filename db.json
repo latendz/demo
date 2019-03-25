@@ -65,7 +65,7 @@
                 {   "id": 4,
                     "name": "Gucci",
                     "price": "4799",
-                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
+                    "imageURl": "https://i.ibb.co/NVHzzTc/small.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                      "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
@@ -78,7 +78,7 @@
                {    "id": 5,
                     "name": "Nike",
                     "price": "479",
-                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
+                    "imageURl": "https://i.ibb.co/NVHzzTc/small.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                      "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
@@ -92,7 +92,7 @@
                 {  "id": 6,
                     "name": "Star",
                     "price": "1799",
-                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
+                    "imageURl": "https://i.ibb.co/NVHzzTc/small.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                      "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
@@ -105,7 +105,7 @@
                 {   "id": 7,
                     "name": "Valentino",
                     "price": "799",
-                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
+                    "imageURl": "https://i.ibb.co/NVHzzTc/small.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                      "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
@@ -123,7 +123,7 @@
                 {   "id": 8,
                     "name": "Nike viale",
                     "price": "479",
-                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
+                    "imageURl": "https://i.ibb.co/NVHzzTc/small.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                      "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
@@ -136,7 +136,7 @@
                 {   "id": 9,
                     "name": "Balenciaga",
                     "price": "5790",
-                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
+                    "imageURl": "https://i.ibb.co/NVHzzTc/small.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                      "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
@@ -149,7 +149,7 @@
                  {   "id": 10,
                     "name": "Tommy",
                     "price": "190",
-                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
+                    "imageURl": "https://i.ibb.co/NVHzzTc/small.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                      "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
@@ -162,7 +162,7 @@
                 {   "id": 11,
                     "name": "Golden Goose",
                     "price": "970",
-                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
+                    "imageURl": "https://i.ibb.co/NVHzzTc/small.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                      "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
