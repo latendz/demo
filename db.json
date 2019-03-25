@@ -3,158 +3,174 @@
         {
             "category": "New Products",
             "products1": [
-                {
-                    "id": 0,
+                {   "id": 0,
                     "name": "Converse Glits",
                     "price": "850",
                     "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
-                    "description":"Do stylish and fresh in these Superga Leather Full Wedge Low-Cut Sneakers. These sneakers boast full wedge soles for a modern take on a platform, only this time not as part of a pair of heels. Their monochrome colourway makes them an easy sell with any other white pieces, but alternatively a preppy look comprising a denim miniskirt and striped tee will do just the trick with this pair.",
-                    "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
+                    "description":"Do stylish and fresh in these Superga Leather Full Wedge Low-Cut Sneakers.",
+                    "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
                                     "https://i.ibb.co/K9cSxDn/image.png",
                                     "https://i.ibb.co/K9cSxDn/image.png", 
                                     "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png" 
-                     ],                 
-                        
-                         "sizes":[3, 4, 5, 6, 7, 8, 9, 10 ] ,
+                                    "https://i.ibb.co/K9cSxDn/image.png"], 
+                         "sizes":[3, 4, 5, 6, 7, 8, 9, 10 ],
                          "color":["blue", "pink"]
-                     
-                      
                 },
                 {
                     "id": 1,
                     "name": "Old Skool Vans",
                     "price": "700",
                     "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
-                     "description":"These sneakers boast full wedge soles for a modern take on a platform, only this time not as part of a pair of heels. Their monochrome colourway makes them an easy sell with any other white pieces, but alternatively a preppy look comprising a denim miniskirt and striped tee will do just the trick with this pair.",
-                    "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
+                     "description":"These sneakers boast full wedge soles for a modern take on a platform",
+                    "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
                                     "https://i.ibb.co/K9cSxDn/image.png",
                                     "https://i.ibb.co/K9cSxDn/image.png", 
                                     "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png" 
-                     ],
-                     "sizes":[
-                        3, 4, 9, 10]   
-                },
-               
-                {
-                    "id": 2,
+                                    "https://i.ibb.co/K9cSxDn/image.png"],
+                     "sizes":[3, 4, 9, 10]   
+                },               
+                {   "id": 2,
                     "name": "Club C",
                     "price": "659",
                     "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
+                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
                                     "https://i.ibb.co/K9cSxDn/image.png",
                                     "https://i.ibb.co/K9cSxDn/image.png", 
                                     "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png" 
-                     ],
-                     "sizes":[
-                        4, 5, 6, 8]   
-                },
-               
-                {
-                    "id": 3,
+                                    "https://i.ibb.co/K9cSxDn/image.png"],
+                     "sizes":[4, 5, 6, 8]   
+                },               
+                {   "id": 3,
                     "name": "Campus Sneaker Pale Grey",
                     "price": "899",
                     "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
+                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
                                     "https://i.ibb.co/K9cSxDn/image.png",
                                     "https://i.ibb.co/K9cSxDn/image.png", 
                                     "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png" 
-                     ],
-                     "sizes":[
-                        3, 4, 5, 6, 7, 8, 9, 10 ]   
-                
+                                    "https://i.ibb.co/K9cSxDn/image.png"],
+                     "sizes":[3, 4, 5, 6, 7, 8, 9, 10 ]
                 }
             ]
         },
         {
             "category": "Product Category",
             "products": [
-                {
-                    "id": 4,
+                {   "id": 4,
                     "name": "Gucci",
                     "price": "4799",
                     "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
+                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
                                     "https://i.ibb.co/K9cSxDn/image.png",
                                     "https://i.ibb.co/K9cSxDn/image.png", 
                                     "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png" 
-                     ],
-                     "sizes":[
-                        3, 8, 9, 10 ]   
+                                    "https://i.ibb.co/K9cSxDn/image.png"],
+                     "sizes":[3, 8, 9, 10 ]                
+                },
+               {    "id": 5,
+                    "name": "Nike",
+                    "price": "479",
+                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
+                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
+                     "pictures": [
+                                    "https://i.ibb.co/K9cSxDn/image.png",
+                                    "https://i.ibb.co/K9cSxDn/image.png", 
+                                    "https://i.ibb.co/K9cSxDn/image.png", 
+                                    "https://i.ibb.co/K9cSxDn/image.png"],
+                     "sizes":[3, 4, 5, 8, 9, 10 ]   
                 
                 },
-                {
-                    "id": 7,
+                {  "id": 6,
+                    "name": "Star",
+                    "price": "1799",
+                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
+                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
+                     "pictures": [
+                                    "https://i.ibb.co/K9cSxDn/image.png",
+                                    "https://i.ibb.co/K9cSxDn/image.png", 
+                                    "https://i.ibb.co/K9cSxDn/image.png", 
+                                    "https://i.ibb.co/K9cSxDn/image.png"],
+                     "sizes":[3, 8, 9, 10 ]               
+                },
+                {   "id": 7,
                     "name": "Valentino",
                     "price": "799",
                     "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
+                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
                                     "https://i.ibb.co/K9cSxDn/image.png",
                                     "https://i.ibb.co/K9cSxDn/image.png", 
                                     "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png" 
-                     ]
+                                    "https://i.ibb.co/K9cSxDn/image.png"],
+                 "sizes":[3, 4, 5, 10 ]
                 }
             ]
         },
         {
             "category": "Product Category",
             "products": [
-                {
-                    "id": 8,
+                {   "id": 8,
                     "name": "Nike viale",
                     "price": "479",
                     "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
+                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
                                     "https://i.ibb.co/K9cSxDn/image.png",
                                     "https://i.ibb.co/K9cSxDn/image.png", 
                                     "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png" 
-                     ]
+                                    "https://i.ibb.co/K9cSxDn/image.png"],
+                 "sizes":[7, 8, 9, 10 ]
                 },
-                {
-                    "id": 9,
+                {   "id": 9,
                     "name": "Balenciaga",
                     "price": "5790",
                     "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
+                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
                                     "https://i.ibb.co/K9cSxDn/image.png",
                                     "https://i.ibb.co/K9cSxDn/image.png", 
                                     "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png" 
-                     ]
+                                    "https://i.ibb.co/K9cSxDn/image.png"],
+                 "sizes":[3, 4, 5, 6, 10 ]
                 },
-                {
-                    "id": 11,
+                 {   "id": 10,
+                    "name": "Tommy",
+                    "price": "190",
+                    "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
+                     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
+                     "pictures": [
+                                    "https://i.ibb.co/K9cSxDn/image.png",
+                                    "https://i.ibb.co/K9cSxDn/image.png", 
+                                    "https://i.ibb.co/K9cSxDn/image.png", 
+                                    "https://i.ibb.co/K9cSxDn/image.png"],
+                  "sizes":[3, 10 ]
+                },
+                {   "id": 11,
                     "name": "Golden Goose",
                     "price": "970",
                     "imageURl": "https://i.ibb.co/K9cSxDn/image.png",
                      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers. They are finished in fashionable rose gold with a sporty silhouette to add an athleisure chic to your look. ",
+                     "info": "Upgrade her shoe selection with these modern and on-trend sneakers.",
                      "pictures": [
                                     "https://i.ibb.co/K9cSxDn/image.png",
                                     "https://i.ibb.co/K9cSxDn/image.png", 
                                     "https://i.ibb.co/K9cSxDn/image.png", 
-                                    "https://i.ibb.co/K9cSxDn/image.png" 
-                     ]
+                                    "https://i.ibb.co/K9cSxDn/image.png"],
+                 "sizes":[3, 6, 7, 8, 9, 10 ]
                 }
             ]
         }
