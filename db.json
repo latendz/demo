@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "category1": "New Products",
+            "category": "New Products",
             "products1": [
                 {
                     "id": 0,
