@@ -137,7 +137,7 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                 "sizes":[3,4,5,6,10],
+                 "sizes":[3,4,5,6,10]
                 
                 },
                  {   "id": 10,
@@ -150,7 +150,7 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                  "sizes":[3,10],
+                  "sizes":[3,10]
                   
                 },
                 {   "id": 11,
@@ -163,7 +163,7 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                 "sizes":[3,6,7,8,9,10],
+                 "sizes":[3,6,7,8,9,10]
                  
                 }
             ]
