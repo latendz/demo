@@ -1,5 +1,4 @@
-{
-  "data": [
+{ "data": [
         { "category": "New Products",
             "products1": [
                 {   "id": 0,
@@ -13,7 +12,8 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                         "sizes":[3,4,5,6,7,8,9,10]
+                         "sizes":[3,4,5,6,7,8,9,10],
+                         "color":["Yellow", "White"]
                 },
                 {   "id": 1,
                     "name": "Old Skool Vans",
@@ -25,7 +25,8 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                     "sizes":[3,4,9,10]
+                     "sizes":[3,4,9,10],
+                     "color":["Blue", "Yellow", "White", "Pink"]
                 },               
                 {   "id": 2,
                     "name": "Club C",
@@ -37,7 +38,8 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                     "sizes":[4,5,6,8]
+                     "sizes":[4,5,6,8],
+                     "color":["Blue", "Yellow", "White"]
                 },               
                 {   "id": 3,
                     "name": "Campus Sneaker Pale Grey",
@@ -49,7 +51,8 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                     "sizes":[3,4,5,6,7,8,9,10]
+                     "sizes":[3,4,5,6,7,8,9,10],
+                     "color":["White", "Red"]
                 }
             ]
         },
@@ -65,7 +68,8 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                     "sizes":[3,8,9,10]
+                     "sizes":[3,8,9,10],
+                     "color":["Brown", "White", "Red", "Blue", "Pink"]
                 },
                {    "id": 5,
                     "name": "Nike",
@@ -77,7 +81,8 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                     "sizes":[3,4,5,8,9,10]
+                     "sizes":[3,4,5,8,9,10],
+                     "color":["Blue", "Yellow", "White", "Black"]
                 },
                 {  "id": 6,
                     "name": "Star",
@@ -89,7 +94,8 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                     "sizes":[3,8,9,10]
+                     "sizes":[3,8,9,10],
+                     "color":["Blue", "Pink", "Green"]
                 },
                 {   "id": 7,
                     "name": "Valentino",
@@ -101,7 +107,8 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                 "sizes":[3,4,5,10]
+                 "sizes":[3,4,5,10],
+                 "color":["White","Blue", "Red"]
                 }
             ]
         },
@@ -117,7 +124,8 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                 "sizes":[7,8,9,10]
+                 "sizes":[7,8,9,10],
+                 "color":["Red", "Blue", "Pink"]
                 },
                 {   "id": 9,
                     "name": "Balenciaga",
@@ -129,7 +137,8 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                 "sizes":[3,4,5,6,10]
+                 "sizes":[3,4,5,6,10],
+                 "color":["Brown", "Pink"]
                 },
                  {   "id": 10,
                     "name": "Tommy",
@@ -141,7 +150,8 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                  "sizes":[3,10]
+                  "sizes":[3,10],
+                  "color":["Brown", "Red", "Blue", "Pink"]
                 },
                 {   "id": 11,
                     "name": "Golden Goose",
@@ -153,7 +163,8 @@
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png", 
                                     "https://i.ibb.co/DpWWnmw/slide.png"], 
-                 "sizes":[3,6,7,8,9,10]
+                 "sizes":[3,6,7,8,9,10],
+                 "color":["Brown", "Blue"]
                 }
             ]
         }
